@@ -7,10 +7,10 @@
 
   // GHL credentials
   const GHL = {
-    locationId: 'ctTbUc9SRPDOjYpRK3CU',
-    calendarId: 'rcqYcvPCMDv4erflJBak',
-    userId:     'I4T6Q498xbtTptEBZkP8',
-    apiKey:     'pit-736c05da-50ac-43f5-8665-bf47b366b14c',
+    locationId: 'MuLba5LCh5hOJqGAEL19',
+    calendarId: 'rKnnR1RpMFgNKJc6K8bb',
+    userId:     '2tQreqXcDpaAiSBqlK7T',
+    apiKey:     'pit-35c68604-5e7f-449b-8d11-9c88022c966e',
     apiBase:    'https://services.leadconnectorhq.com',
     version:    '2021-07-28',
   };
